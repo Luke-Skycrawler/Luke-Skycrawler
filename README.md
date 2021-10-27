@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Luke-Skycrawler/Luke-Skycrawler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luke-Skycrawler&show_icons=true&theme=graywhite)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luke-Skycrawler&layout=compact)](https://github.com/Luke-Skycrawler/github-readme-stats)
 
