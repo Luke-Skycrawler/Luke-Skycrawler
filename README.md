@@ -17,5 +17,5 @@ Senior student in Zhejiang University, Computer Science and Technology Departmen
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luke-Skycrawler&show_icons=true&theme=graywhite&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luke-Skycrawler&layout=compact&hide_border=true)](https://github.com/Luke-Skycrawler/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luke-Skycrawler&theme=graywhite&layout=compact&hide_border=true)](https://github.com/Luke-Skycrawler/github-readme-stats)
 
