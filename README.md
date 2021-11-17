@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Senior student in Zhejiang University, Computer Science and Technology Department. Currently at CAD & CG Laboratory under Professor Xu Weiwei.
+Senior student @ Zhejiang University CAD & CG Laboratory. Adviced by Professor Xu Weiwei.
+
+I'm currently conataminating taichi(https://github.com/taichi-dev/taichi) project with my cringe code and working on a auto-quantization compiler support.
+
+- 🤔 I'm looking into oppotunities of master/phd pursuit.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luke-Skycrawler&show_icons=true&theme=graywhite&hide_border=true)
 
