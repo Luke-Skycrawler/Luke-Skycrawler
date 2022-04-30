@@ -18,7 +18,6 @@ Senior student @ Zhejiang University CAD & CG Laboratory. Advised by Professor X
 I'm currently conataminating taichi(https://github.com/taichi-dev/taichi) project with my cringe code and working on a auto-quantization compiler support
 
 - My personal website is at https://luke-skycrawler.github.io/.
-- I'm looking into oppotunities of master/phd pursuit.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luke-Skycrawler&show_icons=true&theme=graywhite&hide_border=true)
 
