@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Senior student @ Zhejiang University CAD & CG Laboratory. Advised by Professor Xu Weiwei.
+PhD candidate @ University of Utah, after receiving B.E. in Zhejiang University in 2022. Advised by Professor Yin Yang.
 
-I'm currently conataminating taichi(https://github.com/taichi-dev/taichi) project with my cringe code and working on a auto-quantization compiler support
+I'm currently conataminating taichi(https://github.com/taichi-dev/taichi) project with my cringe code and working on a auto-quantization compiler support.
 
 - My personal website is at https://luke-skycrawler.github.io/.
 
